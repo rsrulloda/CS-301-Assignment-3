@@ -1,5 +1,4 @@
 //
-// Created by Alexandro I. Milanez on 9/8/22.
 //
 
 #ifndef CS_301_ASSIGNMENT_3_ITEMTYPE_H

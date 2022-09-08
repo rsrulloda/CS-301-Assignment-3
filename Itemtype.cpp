@@ -1,5 +1,4 @@
 //
-// Created by Alexandro I. Milanez on 9/8/22.
 //
 #ifdef Itemtype_cpp
 #define Itemtype_cpp
