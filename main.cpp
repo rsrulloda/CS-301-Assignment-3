@@ -12,7 +12,6 @@
 
 using namespace std;
 
-
 void PrintList (ofstream & fileOut, UnsortedType & list);
 
 int main ()
